@@ -1,0 +1,19 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "Sample angular To Do List",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanakdeepa/ProjectTodoList.git"
+  },
+  "author": "Kanakdeepa Pradhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kanakdeepa/ProjectTodoList/issues"
+  },
+  "homepage": "https://github.com/kanakdeepa/ProjectTodoList#readme"
+}

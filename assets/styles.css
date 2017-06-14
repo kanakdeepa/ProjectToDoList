@@ -1,0 +1,21 @@
+
+
+.container {
+    margin-top: 30px;
+}
+
+.list-group-item {
+    font-size: 110%;
+}
+
+.list-group-item:hover {
+    background-color: #fafafa;
+}
+
+.list-group a:hover {
+    text-decoration: none;
+}
+
+.badge {
+    background: none;
+}
